@@ -123,7 +123,7 @@
     <li>
       <a href="https://testnets.opensea.io/collection/cfnft">View on OpenSea</a>
     </li>
-    <li><a href="https://github.com/signalnerve/cfweb3">GitHub</a></li>
+    <li><a href="https://github.com/marcomaggiotti/cryptoIR">GitHub</a></li>
   </ul>
 </header>
 
@@ -240,7 +240,7 @@
       <a href="https://metamask.io/">here</a>.
     </p>
     <p>
-      Then follow <a href="https://github.com/cloudflare/cfweb3"
+      Then follow <a href="https://github.com/marcomaggiotti/cryptoIR"
         >these instructions</a
       > to get started.
     </p>
@@ -250,8 +250,8 @@
 <footer>
   Built with <a href="https://pages.dev">Pages</a>
   and <a href="https://workers.dev">Workers</a>, and open-source
-  <a href="https://github.com/cloudflare/cfweb3">on GitHub</a>.
-  <a href="https://blog.cloudflare.com/get-started-web3"
+  <a href="https://github.com/marcomaggiotti/cryptoIR">on GitHub</a>.
+  <a href="https://www.innoromagna.it"
     >Read the announcement blog post</a
   >.
 </footer>

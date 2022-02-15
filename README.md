@@ -5,7 +5,7 @@ The contract offers 2048 tokens which can be minted via the frontend [Svelte](ht
 
 ## Demo
 
-A live version of this demo app can be found at [cf-web3.pages.dev](https://cf-web3.pages.dev/).
+A live version of this demo app can be found at [vercel-app](https://crypto-ir.vercel.app/).
 
 ## Building locally
 
@@ -13,7 +13,7 @@ A live version of this demo app can be found at [cf-web3.pages.dev](https://cf-w
 2. npm install in `contract` and `frontend` with:
 
 ```sh
-cd cfweb3/contract
+cd cryptoIR/contract
 npm install
 cd ../frontend
 npm install
