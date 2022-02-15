@@ -206,7 +206,7 @@
         </section>
       {/if}
     {:else}
-      <h1>👋 Welcome to Cloudflare Web3.</h1>
+      <h1>👋 Welcome to the InnoRomagna Crypto App</h1>
       <h2>Login with Metamask to mint your NFT</h2>
       <button on:click={login}>Login</button>
 
