@@ -118,7 +118,7 @@
 </script>
 
 <header>
-  <a href="/">Cloudflare Web3</a>
+  <a href="/">CryptoIR</a>
   <ul>
     <li>
       <a href="https://testnets.opensea.io/collection/cfnft">View on OpenSea</a>
@@ -141,7 +141,7 @@
 <main>
   {#if ethereum}
     {#if account}
-      <h1>👋 Welcome to the Cloudflare Web3 app</h1>
+      <h1>👋 Welcome to the InnoRomagna Crypto app app</h1>
       <h2>You are currently logged in as {account.slice(0, 5)}</h2>
       {#if loading}
         <p>Transaction processing...</p>
